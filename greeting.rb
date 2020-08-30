@@ -1,4 +1,4 @@
-def greeting
+ruby def greeting
   puts "Hello World"
 end
 # Use this space to code along with the readme
